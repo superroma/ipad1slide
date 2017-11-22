@@ -1,6 +1,6 @@
 {
   "name": "ipad1slide",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.2.3"
